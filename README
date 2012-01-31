@@ -1,0 +1,30 @@
+Chilmers Eclipse Tweaks
+
+
+1. Description
+
+A package holding eclipse related configuration files.
+
+2. Home page
+
+https://github.com/chilmers/eclipse-tweaks
+
+3. Copyright and License information
+
+Copyright 2011,2012 Christian Hilmersson
+
+This file is part of Chilmers-eclipse-tweaks
+
+Chilmers-eclipse-tweaks is free software: you can redistribute it 
+and/or modify it under the terms of the Lesser GNU General Public 
+License as published by the Free Software Foundation, either 
+version 3 of the License, or (at your option) any later version.
+
+Chilmers-eclipse-tweaks is distributed in the hope that it will 
+be useful, but WITHOUT ANY WARRANTY; without even the implied 
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with Chilmers-eclipse-tweaks. 
+If not, see <http://www.gnu.org/licenses/>.
